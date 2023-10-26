@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **RenderPub**
 
-- 👯 I’m looking to collaborate on **M**
+- 👯 I’m looking to collaborate on **C++, Full Stack Web Development, DSA , Java**
 
-- 🤝 I’m looking for help with **on C++, Front-end web development, DSA**
+- 🤝 I’m looking for help with **on C++, Full Stack Web Development, DSA,Java**
 
-- 💬 Ask me about **C++, Frontend Development , DSA**
+- 💬 Ask me about **C++, Full Stack Web Development, DSA,Java**
 
 - 📫 How to reach me **prashantkry89@gmail.com**
 
